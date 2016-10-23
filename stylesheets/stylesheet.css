@@ -114,11 +114,6 @@ body {font-family:Calibri; height:2500px; font-size:17px} /* Googl fonts*/
     list-style-type:none;
 } 
 a {  text-decoration: none;    color: #007edf;}
-h2 {
-  padding-bottom: 10px;
-  font-size: 32px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
-}
 
 
 
